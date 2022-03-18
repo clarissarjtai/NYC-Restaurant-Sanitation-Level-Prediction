@@ -1,2 +1,4 @@
 # AML_FinProj
-AMLFinal Project
+AML Spring 2022 Final Project
+
+# Collaborators
