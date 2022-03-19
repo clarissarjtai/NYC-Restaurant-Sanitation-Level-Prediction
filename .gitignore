@@ -130,3 +130,5 @@ dmypy.json
 DOHMH_New_York_City_Restaurant_Inspection_Results.csv
 Rodent_Inspection.csv
 Self-Reported_Drinking_Water_Tank_Inspection_Results.csv
+Rodent_Inspection_Cleaned.csv
+.vscode/settings.json
