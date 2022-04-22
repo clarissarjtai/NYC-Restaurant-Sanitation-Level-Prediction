@@ -132,3 +132,4 @@ Rodent_Inspection.csv
 Self-Reported_Drinking_Water_Tank_Inspection_Results.csv
 Rodent_Inspection_Cleaned.csv
 .vscode/settings.json
+preprocessed_data/Rodent_Inspection_Cleaned.csv.zip
