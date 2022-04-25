@@ -1,4 +1,4 @@
-# AML_FinProj
+# NYC Restaurant Sanitation Level Prediction
 AML Spring 2022 Final Project
 
 # Collaborators
